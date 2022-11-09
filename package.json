@@ -1,4 +1,27 @@
 {
+  "name": "nosql-socialnetworkapi",
+  "version": "1.0.0",
+  "description": "social network api backend app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedharun46/NoSql-SocialNetworkAPI.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongoose"
+  ],
+  "author": "Harun Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedharun46/NoSql-SocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/ahmedharun46/NoSql-SocialNetworkAPI#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.2"
